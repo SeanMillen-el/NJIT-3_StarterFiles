@@ -42,9 +42,14 @@
                 @click="posterClick(index)"
                 :src="movies[index].posters[movies[index].posterindex]"
               />
-              <div class="imageInfo">{{ movies[index].posters[index] }}</div>
+              <div class="imageInfo">
+                Poster {{ movies[index].posterindex +1 }} of {{
+                movies[index].posters.length }}
+              </div>
 
-              <p class="title">{{ movies[0].title }} {{ movies[0].country }}</p>
+              <p class="title">
+                {{ movies[index].title }} ({{ movies[index].country }})
+              </p>
               <p class="score">
                 <i class="bi bi-star" aria-hidden="true"></i> {{
                 movies[index].iscore }}
@@ -76,7 +81,12 @@
 
       <div class="footer">
         <div class="container">
-          <a id="github" class="btn btn-lg btn-warning">
+          <a
+            id="github"
+            class="btn btn-lg btn-warning"
+            v-bind:href="github"
+            target="_blank"
+          >
             <i class="bi bi-github me-2"></i>{{ owner }}
           </a>
         </div>
