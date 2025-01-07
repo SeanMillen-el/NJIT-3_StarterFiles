@@ -69,4 +69,46 @@
             "dislikes": 101,
             "posterindex": 0
       }
+      {
+            "title": "I Am Legend",
+            "iscore": 7.2,
+            "rating": "PG-13",
+            "runtime": 101,
+            "released": [2007, 12, 14],
+            "country": "USA",
+            "posters": ["img/IamLegend1.jpg", "img/IamLegend2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0480249/",
+            "website": "https://www.warnerbros.com/movies/i-am-legend",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      }
+      {
+            "title": "The Karate kid",
+            "iscore": 6.2,
+            "rating": "PG",
+            "runtime": 140,
+            "released": [2010, 6, 11],
+            "country": "USA",
+            "posters": ["img/Karatekid1.jpg", "img/karatekid2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1155076/",
+            "website": "https://www.sonypictures.com/movies/thekaratekid",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      }
+      {
+            "title": "The Terminator",
+            "iscore": 8.1,
+            "rating": "R",
+            "runtime": 107,
+            "released": [1993, 11, 30],
+            "country": "USA",
+            "posters": ["img/schindlerslist.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0088247/",
+            "website": "https://www.theterminatorfans.com/",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      }
 ]
