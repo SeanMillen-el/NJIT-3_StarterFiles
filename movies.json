@@ -68,7 +68,7 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
-      }
+      },
       {
             "title": "I Am Legend",
             "iscore": 7.2,
@@ -79,10 +79,10 @@
             "posters": ["img/IamLegend1.jpg", "img/IamLegend2.jpg"],
             "imdb": "https://www.imdb.com/title/tt0480249/",
             "website": "https://www.warnerbros.com/movies/i-am-legend",
-            "likes": 812,
-            "dislikes": 101,
+            "likes": 788,
+            "dislikes": 350,
             "posterindex": 0
-      }
+      },
       {
             "title": "The Karate kid",
             "iscore": 6.2,
@@ -93,10 +93,10 @@
             "posters": ["img/Karatekid1.jpg", "img/karatekid2.jpg"],
             "imdb": "https://www.imdb.com/title/tt1155076/",
             "website": "https://www.sonypictures.com/movies/thekaratekid",
-            "likes": 812,
-            "dislikes": 101,
+            "likes": 773,
+            "dislikes": 269,
             "posterindex": 0
-      }
+      },
       {
             "title": "The Terminator",
             "iscore": 8.1,
@@ -107,8 +107,8 @@
             "posters": ["img/schindlerslist.jpg"],
             "imdb": "https://www.imdb.com/title/tt0088247/",
             "website": "https://www.theterminatorfans.com/",
-            "likes": 812,
-            "dislikes": 101,
+            "likes": 857,
+            "dislikes": 233,
             "posterindex": 0
       }
 ]
